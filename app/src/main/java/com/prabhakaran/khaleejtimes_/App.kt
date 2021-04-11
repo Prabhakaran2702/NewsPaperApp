@@ -26,11 +26,13 @@ class App : Application() {
 
     fun featureAdd(){
 
+    }
+
+    fun featureAdd2(){
 
     }
 
     fun bugfixMaster(){
-
 
     }
 
