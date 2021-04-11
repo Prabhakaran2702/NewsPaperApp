@@ -24,4 +24,9 @@ class App : Application() {
 
     //test
 
+    fun featureAdd(){
+
+
+    }
+
 }
