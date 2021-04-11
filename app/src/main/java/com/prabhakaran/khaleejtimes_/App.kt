@@ -24,9 +24,16 @@ class App : Application() {
 
     //test
 
+    fun featureAdd(){
+
+    }
+
+    fun featureAdd2(){
+
+    }
+
     fun bugfixMaster(){
 
-        
     }
 
 }
