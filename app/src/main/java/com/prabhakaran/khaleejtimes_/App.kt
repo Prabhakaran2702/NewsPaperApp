@@ -38,4 +38,10 @@ class App : Application() {
 //samee.....
     }
 
+    fun adding features(){
+
+
+
+    }
+
 }
