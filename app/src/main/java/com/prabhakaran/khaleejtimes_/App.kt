@@ -26,14 +26,16 @@ class App : Application() {
 
     fun featureAdd(){
 
+        // writting some methods
+
     }
 
     fun featureAdd2(){
-
+// writing some methods
     }
 
     fun bugfixMaster(){
-
+//samee.....
     }
 
 }
